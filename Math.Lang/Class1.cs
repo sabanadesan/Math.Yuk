@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Math.Engine
+namespace Math.Lang
 {
     public class Class1
     {

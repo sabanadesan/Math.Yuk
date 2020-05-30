@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math.Yuk", "Math.Yuk\Math.Yuk.csproj", "{8FC265C1-D569-4D5D-8D25-8E5E2854B079}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math.Engine", "Math.Engine\Math.Engine.csproj", "{E622EDED-E994-4ECD-9AEB-9B1A13E4C614}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math.Eng", "Math.Eng\Math.Eng.csproj", "{E622EDED-E994-4ECD-9AEB-9B1A13E4C614}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math.Language", "Math.Language\Math.Language.csproj", "{F4B90CF1-64D5-4A8C-A567-9A57534C0FBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math.Lang", "Math.Lang\Math.Lang.csproj", "{F4B90CF1-64D5-4A8C-A567-9A57534C0FBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
