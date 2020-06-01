@@ -9,7 +9,7 @@ using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Math.Lang
+namespace Math.Eng
 {
     public class DebuggerServer
     {

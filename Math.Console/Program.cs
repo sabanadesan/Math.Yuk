@@ -6,7 +6,7 @@ using System.Text;
 using System.Net;
 using System.Net.Sockets;
 
-using Math.Lang;
+using Math.Eng;
 
 namespace Math.Console
 {

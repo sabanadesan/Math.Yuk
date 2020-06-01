@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Math.Lang
+namespace Math.Eng
 {
     public partial class Constants
     {

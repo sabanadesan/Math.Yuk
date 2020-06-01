@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Math.Lang
+namespace Math.Eng
 {
     public class WordHint
     {

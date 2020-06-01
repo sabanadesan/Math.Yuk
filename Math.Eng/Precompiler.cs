@@ -11,7 +11,7 @@ using System.Linq.Expressions;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Math.Lang
+namespace Math.Eng
 {
     public class Precompiler
     {
@@ -383,7 +383,7 @@ namespace Math.Lang
 
                 m_converted.AppendLine(ns);
             }
-            m_converted.AppendLine("namespace Math.Lang {\n" +
+            m_converted.AppendLine("namespace Math.Eng {\n" +
                                    "  public partial class Precompiler {");
 
             for (int i = 0; i < s_definitions.Count; i++)

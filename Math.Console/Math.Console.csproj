@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Math.Lang\Math.Lang.csproj" />
+    <ProjectReference Include="..\Math.Eng\Math.Eng.csproj" />
   </ItemGroup>
 
 </Project>

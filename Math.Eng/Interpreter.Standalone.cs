@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Configuration;
 
-namespace Math.Lang
+namespace Math.Eng
 {
     public partial class Interpreter
     {

@@ -10,7 +10,7 @@ using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Math.Lang
+namespace Math.Eng
 {
     // Prints passed list of argumentsand
     class PrintFunction : ParserFunction

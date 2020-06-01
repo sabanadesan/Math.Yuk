@@ -4,7 +4,7 @@ using System.Linq;
 using static System.Math;
 using System.Threading.Tasks;
 
-namespace Math.Lang
+namespace Math.Eng
 {
     interface INumericFunction { }
     interface IArrayFunction { }

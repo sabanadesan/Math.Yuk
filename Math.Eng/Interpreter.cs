@@ -5,9 +5,9 @@ using System.Configuration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static Math.Lang.ParserFunction;
+using static Math.Eng.ParserFunction;
 
-namespace Math.Lang
+namespace Math.Eng
 {
     public class OutputAvailableEventArgs : EventArgs
     {

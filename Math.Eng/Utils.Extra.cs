@@ -8,7 +8,7 @@ using System.Threading;
 using System.Threading.Tasks;
 
 
-namespace Math.Lang
+namespace Math.Eng
 {
     public partial class Utils
     {

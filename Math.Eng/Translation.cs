@@ -5,7 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace Math.Lang
+namespace Math.Eng
 {
     public class Translation
     {
