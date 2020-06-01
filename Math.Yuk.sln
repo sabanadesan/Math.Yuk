@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math.Eng", "Math.Eng\Math.E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math.Lang", "Math.Lang\Math.Lang.csproj", "{F4B90CF1-64D5-4A8C-A567-9A57534C0FBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math.Console", "Math.Console\Math.Console.csproj", "{DF038762-967B-436E-BD14-4CA09DDA0C3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F4B90CF1-64D5-4A8C-A567-9A57534C0FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4B90CF1-64D5-4A8C-A567-9A57534C0FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4B90CF1-64D5-4A8C-A567-9A57534C0FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF038762-967B-436E-BD14-4CA09DDA0C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF038762-967B-436E-BD14-4CA09DDA0C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF038762-967B-436E-BD14-4CA09DDA0C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF038762-967B-436E-BD14-4CA09DDA0C3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
