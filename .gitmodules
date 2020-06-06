@@ -1,6 +1,3 @@
 [submodule "Math.Fin"]
 	path = Math.Fin
 	url = https://github.com/sabanadesan/Math.Fin.git
-[submodule "Math.Bet"]
-	path = Math.Bet
-	url = https://github.com/sabanadesan/Math.Bet.git
