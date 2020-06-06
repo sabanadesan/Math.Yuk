@@ -1,0 +1,3 @@
+[submodule "Math.Fin"]
+	path = Math.Fin
+	url = https://github.com/sabanadesan/Math.Fin.git
