@@ -15,7 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math.Fin", "Math.Fin\Math.F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math.Poker", "Math.Poker\Math.Poker.csproj", "{F9B3AA79-2133-45F9-8096-C82FFB58E16B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math.Bet", "Math.Bet\Math.Bet.csproj", "{2402857A-0B67-481E-853A-97DBCFFDC4CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math.Bet", "Math.Bet\Math.Bet.csproj", "{2402857A-0B67-481E-853A-97DBCFFDC4CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math.Stat", "Math.Stat\Math.Stat.csproj", "{0A662AF5-7A80-4874-85E9-2C903D42408E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math.Game", "Math.Game\Math.Game.csproj", "{CE024E79-3E09-428B-8653-1FFA4C387DDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{2402857A-0B67-481E-853A-97DBCFFDC4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2402857A-0B67-481E-853A-97DBCFFDC4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2402857A-0B67-481E-853A-97DBCFFDC4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A662AF5-7A80-4874-85E9-2C903D42408E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A662AF5-7A80-4874-85E9-2C903D42408E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A662AF5-7A80-4874-85E9-2C903D42408E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A662AF5-7A80-4874-85E9-2C903D42408E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE024E79-3E09-428B-8653-1FFA4C387DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE024E79-3E09-428B-8653-1FFA4C387DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE024E79-3E09-428B-8653-1FFA4C387DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE024E79-3E09-428B-8653-1FFA4C387DDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
