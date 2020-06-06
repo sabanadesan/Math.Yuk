@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math.Lang", "Math.Lang\Math
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math.Console", "Math.Console\Math.Console.csproj", "{DF038762-967B-436E-BD14-4CA09DDA0C3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math.Fin", "Math.Fin\Math.Fin.csproj", "{3343DCA6-6483-42D8-B032-E80B00216D8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math.Fin", "Math.Fin\Math.Fin.csproj", "{3343DCA6-6483-42D8-B032-E80B00216D8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math.Bet", "Math.Bet\Math.Bet.csproj", "{00955913-5044-4889-8FEB-2D8DC2F3966E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math.Poker", "Math.Poker\Math.Poker.csproj", "{F9B3AA79-2133-45F9-8096-C82FFB58E16B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{3343DCA6-6483-42D8-B032-E80B00216D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3343DCA6-6483-42D8-B032-E80B00216D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3343DCA6-6483-42D8-B032-E80B00216D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00955913-5044-4889-8FEB-2D8DC2F3966E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00955913-5044-4889-8FEB-2D8DC2F3966E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00955913-5044-4889-8FEB-2D8DC2F3966E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00955913-5044-4889-8FEB-2D8DC2F3966E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B3AA79-2133-45F9-8096-C82FFB58E16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B3AA79-2133-45F9-8096-C82FFB58E16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B3AA79-2133-45F9-8096-C82FFB58E16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B3AA79-2133-45F9-8096-C82FFB58E16B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
